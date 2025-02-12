@@ -5,9 +5,18 @@
 > so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 > for more usage information.
 
-# [_Put your project name here_]
+# [_travel date ]
 
-[_Add a brief description of your project here._]
+Skyscanner Front-End Software Engineering virtual experience programme on Forage
+- February 2025
+
+
+ * Completed a job simulation where I built a web application using React as a
+   front-end engineer at Skyscanner.
+ * Developed a page for picking a travel date using Skyscanner’s open-source
+   Backpack React library.
+ * Customised my application and ran automated tests to ensure it rendered
+   properly.
 
 ## npm script commands
 
